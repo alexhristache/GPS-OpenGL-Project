@@ -1,0 +1,30 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Outline
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Final_Pokemon_Diffuse.jpg
+map_Ks Final_Pokemon_Specular.jpg
+map_Ka Final_Pokemon_Ambient_Occlusion.jpg
+map_Ke Final_Pokemon_Emissive.jpg
+
+newmtl Pokemon
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Final_Pokemon_Diffuse.jpg
+map_Ks Final_Pokemon_Specular.jpg
+map_Ka Final_Pokemon_Ambient_Occlusion.jpg
+map_Ke Final_Pokemon_Emissive.jpg
